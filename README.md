@@ -32,6 +32,10 @@ The Decap CMS can be used in two different ways.
   To learn more about this installation method, refer to the [Quick Start Guide](https://www.decapcms.org/docs/quick-start/)
 * A complete, more complex install, that gives you more flexibility but requires that you use a static site builder with a build system that supports npm packages.
 
+## Deploying on GitHub Pages
+
+Looking for a GitHub Pages deployment? Follow the step-by-step guide in [docs/github-pages.md](docs/github-pages.md) to add `/admin` to your site, configure GitHub authentication, and publish with Pages.
+
 ## Sponsor
 
 Help support Decap CMS development by becoming a sponsor! Your contributions help us maintain and improve this open-source project.
